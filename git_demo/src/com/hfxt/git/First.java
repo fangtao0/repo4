@@ -7,4 +7,8 @@ public class First {
         System.out.println("Hello Git");
         System.out.println("Hello Git");
     }
+
+    public void text(){
+        System.out.println("修改代码测试");
+    }
 }
